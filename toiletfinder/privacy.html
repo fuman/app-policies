@@ -15,7 +15,7 @@
 <body>
 
 <h1>화장실어디 개인정보처리방침</h1>
-<p>최종 수정일: 2026-08-25</p>
+<p>최종 수정일: 2026-10-31</p>
 <p>"화장실어디"(이하 "앱")는 개발자 fuman(연락처: fuman98@gmail.com)이 제공하는
 전국 공중화장실 검색 앱입니다. 본 방침은 앱이 이용자의 정보를 어떻게 취급하는지 설명합니다.</p>
 
@@ -25,6 +25,10 @@
 <li><strong>위치 정보</strong>: 이용자가 위치 권한을 허용하면 근처 화장실을 거리순으로 보여주기 위해
 기기의 위치를 사용합니다. 이 위치는 <strong>기기 안에서만 처리되며 외부로 전송되지 않습니다.</strong>
 위치 권한을 거부해도 검색 기능은 정상 동작합니다.</li>
+<li><strong>지도 표시</strong>: 이용자가 지도 보기를 사용하면 화면에 보이는 지역의 지도 이미지(타일)를
+OpenFreeMap 서버(tiles.openfreemap.org)에서 받아옵니다. 이때 이용자의 IP 주소와 보고 있는 지역
+(내 주변 검색 중이면 대략적인 현재 위치가 포함된 지역)이 해당 서버로 전달될 수 있습니다.
+기기의 정확한 위치 좌표 자체는 전송하지 않습니다. 목록 보기만 사용하면 지도 통신은 일어나지 않습니다.</li>
 <li><strong>광고 관련 정보</strong>: 앱은 Google AdMob 배너 광고를 표시합니다. 이 과정에서 Google 모바일
 광고 SDK가 광고 게재·측정을 위해 다음 정보를 수집할 수 있습니다: 광고 ID(기기 식별자),
 IP 주소 기반의 대략적인 위치, 광고 상호작용 정보, 진단 정보.
@@ -35,12 +39,17 @@ IP 주소 기반의 대략적인 위치, 광고 상호작용 정보, 진단 정�
 <h2>2. 정보의 이용 목적</h2>
 <ul>
 <li>위치 정보: 근처 화장실 거리순 정렬·방향 표시 (기기 내 처리)</li>
+<li>지도 표시: 지도 이미지를 내려받아 화면에 표시 (OpenFreeMap)</li>
 <li>광고 관련 정보: 광고 게재, 성과 측정 (Google AdMob)</li>
 </ul>
 
 <h2>3. 제3자 공유</h2>
-<p>개발자는 이용자 데이터를 제3자와 공유하지 않습니다. 광고 관련 정보는 Google이
-자사 개인정보처리방침에 따라 처리합니다.</p>
+<p>개발자는 이용자 데이터를 판매하거나 별도로 제공하지 않습니다. 다만 앱 기능 제공 과정에서 다음 제3자에게
+정보가 전달될 수 있습니다.</p>
+<ul>
+<li>Google(AdMob): 광고 관련 정보 — Google 개인정보처리방침에 따라 처리</li>
+<li>OpenFreeMap: 지도 표시를 위한 IP 주소·보고 있는 지역(대략적인 위치) — 지도 보기 사용 시에만</li>
+</ul>
 
 <h2>4. 데이터 보관 및 삭제</h2>
 <p>앱은 개발자 서버에 이용자 데이터를 저장하지 않습니다. 앱 내 저장 데이터(설정 등)는
@@ -52,7 +61,8 @@ IP 주소 기반의 대략적인 위치, 광고 상호작용 정보, 진단 정�
 
 <h2>6. 데이터 출처</h2>
 <p>화장실 정보는 행정안전부 전국공중화장실 표준데이터(공공데이터포털)를 기반으로 하며,
-좌표 정보는 국토교통부 브이월드(VWorld)를 활용해 가공했습니다.</p>
+좌표 정보는 국토교통부 브이월드(VWorld)를 활용해 가공했습니다.
+지도: © OpenStreetMap 기여자 · OpenMapTiles · OpenFreeMap.</p>
 
 <h2>7. 문의</h2>
 <p>개인정보 관련 문의: fuman98@gmail.com</p>
@@ -61,7 +71,7 @@ IP 주소 기반의 대략적인 위치, 광고 상호작용 정보, 진단 정�
 <hr>
 
 <h1>Privacy Policy — Toilet Where? (화장실어디)</h1>
-<p>Last updated: 2026-08-25</p>
+<p>Last updated: 2026-10-31</p>
 <p>"Toilet Where?" (the "App"), provided by fuman (contact: fuman98@gmail.com), is a public
 toilet finder app for South Korea. This policy explains how the App handles your information.</p>
 
@@ -71,6 +81,10 @@ toilet finder app for South Korea. This policy explains how the App handles your
 <li><strong>Location</strong>: With your permission, the App uses your device location to sort nearby
 toilets by distance. Location is <strong>processed on your device only and never transmitted.</strong>
 The App works without location permission via text search.</li>
+<li><strong>Map display</strong>: When you use the map view, map images (tiles) for the area on screen are
+downloaded from OpenFreeMap (tiles.openfreemap.org). Your IP address and the area you are viewing
+(which includes your approximate location while using Nearby) may be sent to that server. Your exact
+device coordinates are not transmitted. If you only use the list view, no map requests are made.</li>
 <li><strong>Advertising data</strong>: The App shows Google AdMob banner ads. The Google Mobile Ads SDK
 may collect: advertising ID (device identifier), approximate location derived from IP address,
 ad interaction data, and diagnostics. See
@@ -80,12 +94,17 @@ ad interaction data, and diagnostics. See
 <h2>2. Purpose</h2>
 <ul>
 <li>Location: distance sorting and direction display (on-device only)</li>
+<li>Map display: downloading and showing map images (OpenFreeMap)</li>
 <li>Advertising data: ad serving and measurement (Google AdMob)</li>
 </ul>
 
 <h2>3. Third-Party Sharing</h2>
-<p>The developer does not share user data with third parties. Advertising data is processed
-by Google under its own privacy policy.</p>
+<p>The developer does not sell or separately provide user data. However, information may be sent to the
+following third parties to provide app features:</p>
+<ul>
+<li>Google (AdMob): advertising data, processed under Google's privacy policy</li>
+<li>OpenFreeMap: IP address and the area being viewed (approximate location) for map display — only when using the map view</li>
+</ul>
 
 <h2>4. Retention and Deletion</h2>
 <p>No user data is stored on the developer's servers. In-app data (settings) is removed when
@@ -98,7 +117,7 @@ you uninstall the App. You can reset or delete your advertising ID in device set
 <h2>6. Data Sources</h2>
 <p>Toilet information is based on standard public data from the Korean Ministry of the
 Interior and Safety; coordinates were derived using VWorld (Ministry of Land, Infrastructure
-and Transport).</p>
+and Transport). Map: © OpenStreetMap contributors · OpenMapTiles · OpenFreeMap.</p>
 
 <h2>7. Contact</h2>
 <p>Privacy inquiries: fuman98@gmail.com</p>
