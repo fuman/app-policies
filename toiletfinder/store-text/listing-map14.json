@@ -1,0 +1,82 @@
+{
+ "ko-KR": [
+  "지도로 보기",
+  "목록과 지도를 오갈 수 있습니다. 지도를 움직여 '이 지역 검색'을 누르면 숙소·관광지 주변 화장실을 한글 입력 없이 찾고, 점 색으로 개방 여부를, 확대하면 남녀 변기 수를 바로 확인합니다. (지도는 인터넷 연결 시 표시, 목록은 오프라인에서도 동작)",
+  "지도: © OpenStreetMap 기여자 · OpenMapTiles · OpenFreeMap"
+ ],
+ "en-US": [
+  "Map view",
+  "Switch between the list and a map. Move the map and tap \"Search this area\" to find toilets around your hotel or sights without typing Korean. Dot colors show what's open, and zooming in shows the number of toilets. (The map needs an internet connection; the list works offline.)",
+  "Map: © OpenStreetMap contributors · OpenMapTiles · OpenFreeMap"
+ ],
+ "ja-JP": [
+  "地図で見る",
+  "リストと地図を切り替えられます。地図を動かして「このエリアを検索」を押すと、韓国語を入力せずにホテルや観光地周辺のトイレを探せます。点の色で開放状況、拡大するとトイレの数がわかります。（地図はインターネット接続時に表示、リストはオフラインでも動作）",
+  "地図：© OpenStreetMap contributors・OpenMapTiles・OpenFreeMap"
+ ],
+ "zh-CN": [
+  "地图视图",
+  "可在列表和地图之间切换。移动地图后点击“搜索此区域”，无需输入韩文即可查找酒店或景点周边的厕所。圆点颜色表示是否开放，放大后可看到厕位数量。（地图需要联网，列表可离线使用）",
+  "地图：© OpenStreetMap 贡献者 · OpenMapTiles · OpenFreeMap"
+ ],
+ "zh-TW": [
+  "地圖檢視",
+  "可在清單與地圖之間切換。移動地圖後點「搜尋此區域」，不必輸入韓文就能找飯店或景點周邊的廁所。圓點顏色表示是否開放，放大後可看到廁位數量。（地圖需要連網，清單可離線使用）",
+  "地圖：© OpenStreetMap 貢獻者 · OpenMapTiles · OpenFreeMap"
+ ],
+ "vi": [
+  "Xem bản đồ",
+  "Chuyển qua lại giữa danh sách và bản đồ. Di chuyển bản đồ rồi chạm \"Tìm trong khu vực này\" để tìm nhà vệ sinh quanh khách sạn hay điểm tham quan mà không cần gõ tiếng Hàn. Màu chấm cho biết đang mở hay không, phóng to để xem số bồn cầu. (Bản đồ cần kết nối mạng; danh sách dùng được ngoại tuyến.)",
+  "Bản đồ: © OpenStreetMap contributors · OpenMapTiles · OpenFreeMap"
+ ],
+ "th": [
+  "ดูแผนที่",
+  "สลับระหว่างรายการกับแผนที่ได้ เลื่อนแผนที่แล้วแตะ \"ค้นหาในบริเวณนี้\" เพื่อหาห้องน้ำรอบโรงแรมหรือสถานที่ท่องเที่ยวโดยไม่ต้องพิมพ์ภาษาเกาหลี สีของจุดบอกว่าเปิดอยู่หรือไม่ และซูมเข้าเพื่อดูจำนวนโถส้วม (แผนที่ต้องใช้อินเทอร์เน็ต รายการใช้ได้แบบออฟไลน์)",
+  "แผนที่: © OpenStreetMap contributors · OpenMapTiles · OpenFreeMap"
+ ],
+ "id": [
+  "Tampilan peta",
+  "Beralih antara daftar dan peta. Geser peta lalu ketuk \"Cari di area ini\" untuk menemukan toilet di sekitar hotel atau tempat wisata tanpa mengetik bahasa Korea. Warna titik menunjukkan buka atau tutup, dan perbesar untuk melihat jumlah kloset. (Peta perlu internet; daftar tetap berfungsi offline.)",
+  "Peta: © kontributor OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ],
+ "ru-RU": [
+  "Карта",
+  "Переключайтесь между списком и картой. Сдвиньте карту и нажмите «Искать в этой области», чтобы найти туалеты рядом с отелем или достопримечательностью без ввода на корейском. Цвет точки показывает, открыто ли, а при приближении видно число кабинок. (Для карты нужен интернет; список работает офлайн.)",
+  "Карта: © участники OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ],
+ "de-DE": [
+  "Kartenansicht",
+  "Wechsle zwischen Liste und Karte. Verschiebe die Karte und tippe auf „In diesem Gebiet suchen“, um Toiletten rund um Hotel oder Sehenswürdigkeit zu finden – ganz ohne Koreanisch. Die Punktfarbe zeigt, was geöffnet ist; beim Hineinzoomen siehst du die Anzahl der Toiletten. (Die Karte braucht Internet; die Liste funktioniert offline.)",
+  "Karte: © OpenStreetMap-Mitwirkende · OpenMapTiles · OpenFreeMap"
+ ],
+ "fr-FR": [
+  "Vue carte",
+  "Passez de la liste à la carte. Déplacez la carte et touchez « Rechercher dans cette zone » pour trouver des toilettes autour de votre hôtel ou d'un site sans taper en coréen. La couleur des points indique l'ouverture, et en zoomant vous voyez le nombre de cabines. (La carte nécessite Internet ; la liste fonctionne hors ligne.)",
+  "Carte : © contributeurs OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ],
+ "es-ES": [
+  "Vista de mapa",
+  "Cambia entre la lista y el mapa. Mueve el mapa y toca «Buscar en esta zona» para encontrar baños cerca de tu hotel o de los lugares turísticos sin escribir en coreano. El color de los puntos indica si está abierto y, al acercar, verás el número de inodoros. (El mapa necesita internet; la lista funciona sin conexión.)",
+  "Mapa: © colaboradores de OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ],
+ "pt-BR": [
+  "Visualização em mapa",
+  "Alterne entre lista e mapa. Mova o mapa e toque em \"Buscar nesta área\" para achar banheiros perto do hotel ou dos pontos turísticos sem digitar em coreano. A cor dos pontos mostra se está aberto e, ao aproximar, aparece o número de vasos. (O mapa precisa de internet; a lista funciona offline.)",
+  "Mapa: © colaboradores do OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ],
+ "ar": [
+  "عرض الخريطة",
+  "بدّل بين القائمة والخريطة. حرّك الخريطة واضغط «البحث في هذه المنطقة» للعثور على الحمامات حول الفندق أو المعالم دون الكتابة بالكورية. لون النقطة يوضح إن كان المكان مفتوحًا، وعند التكبير يظهر عدد المراحيض. (تحتاج الخريطة إلى الإنترنت، والقائمة تعمل دون اتصال.)",
+  "الخريطة: © مساهمو OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ],
+ "mn-MN": [
+  "Газрын зураг",
+  "Жагсаалт ба газрын зургийг сэлгэж болно. Газрын зургийг хөдөлгөөд «Энэ бүсэд хайх» дээр дарж зочид буудал, үзвэрийн ойролцоох жорлонг солонгосоор бичихгүйгээр олно. Цэгийн өнгө нээлттэй эсэхийг, томруулбал суултуурын тоог харуулна. (Газрын зурагт интернэт хэрэгтэй, жагсаалт офлайн ажиллана.)",
+  "Газрын зураг: © OpenStreetMap оролцогчид · OpenMapTiles · OpenFreeMap"
+ ],
+ "es-419": [
+  "Vista de mapa",
+  "Cambia entre la lista y el mapa. Mueve el mapa y toca «Buscar en esta zona» para encontrar baños cerca de tu hotel o de los lugares turísticos sin escribir en coreano. El color de los puntos indica si está abierto y, al acercar, verás el número de inodoros. (El mapa necesita internet; la lista funciona sin conexión.)",
+  "Mapa: © colaboradores de OpenStreetMap · OpenMapTiles · OpenFreeMap"
+ ]
+}
